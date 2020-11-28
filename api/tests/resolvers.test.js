@@ -1,5 +1,5 @@
 describe('resolvers', () => {
   test('hello', () => {
-    expect(1).toBe(1)
-  })
-})
+    expect(1).toBe(1);
+  });
+});
