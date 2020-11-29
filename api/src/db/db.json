@@ -33,55 +33,6 @@
       "type": "DOG",
       "name": "Frank",
       "createdAt": "28.11.2020"
-    },
-    {
-      "id": "38owpgNogaE4APFdrwpp2",
-      "createdAt": 1606589107979,
-      "name": "Betty",
-      "type": "DOG",
-      "user": "jBWMVGjm50l6LGwepDoty"
-    },
-    {
-      "id": "Ge1vsiLED99Y_ifoeQUYs",
-      "createdAt": 1606589586460,
-      "name": "Betty",
-      "type": "DOG",
-      "user": "jBWMVGjm50l6LGwepDoty"
-    },
-    {
-      "id": "EVWipAaukgtyfoL2gjMTg",
-      "createdAt": 1606590858850,
-      "name": "Lucy",
-      "type": "CAT",
-      "user": "jBWMVGjm50l6LGwepDoty"
-    },
-    {
-      "id": "RHVe_4zBneK0TU2Z9v_9E",
-      "createdAt": 1606592718685,
-      "name": "Dan",
-      "type": "DOG",
-      "user": "jBWMVGjm50l6LGwepDoty"
-    },
-    {
-      "id": "z8H8oduzYGOHBM-V-u3PR",
-      "createdAt": 1606592786667,
-      "name": "Canna",
-      "type": "CAT",
-      "user": "jBWMVGjm50l6LGwepDoty"
-    },
-    {
-      "id": "D5tltJG3_DxVa4Ib1828X",
-      "createdAt": 1606592892906,
-      "name": "Dinh",
-      "type": "DOG",
-      "user": "jBWMVGjm50l6LGwepDoty"
-    },
-    {
-      "id": "kMWZOsGbwh2DaF6n_v4CY",
-      "createdAt": 1606593526888,
-      "name": "Gustaf",
-      "type": "DOG",
-      "user": "jBWMVGjm50l6LGwepDoty"
     }
   ]
 }
